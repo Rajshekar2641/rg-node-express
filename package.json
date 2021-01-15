@@ -1,0 +1,29 @@
+{
+  "name": "rg-node-express",
+  "version": "1.0.0",
+  "description": "Node Express App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajshekar2641/rg-node-express.git"
+  },
+  "engines": {
+    "node": "15.x"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Rajashekar Gande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajshekar2641/rg-node-express/issues"
+  },
+  "homepage": "https://github.com/Rajshekar2641/rg-node-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
